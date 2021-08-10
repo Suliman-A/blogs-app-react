@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to UC",
+      "body": "I'm a new student in citcs ",
+      "author": "student",
+      "id": 1
+    },
+    {
+      "title": "Enrollment",
+      "body": "first yeat enrollment starts in 2021",
+      "author": "faculty",
+      "id": 2
+    }
+  ]
+}
